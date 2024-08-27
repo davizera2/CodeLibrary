@@ -1,4 +1,4 @@
-
+#include <stdio.h>
 int main() {
     int vet[6];
     int i, cont_par = 0, cont_imp = 0;
@@ -27,3 +27,4 @@ int main() {
     printf("QUANTIDADE DE PARES: %d\n",cont_imp);
     printf("QUANTIDADE DE IMPARES: %d\n",cont_par);
     return 0;
+}
