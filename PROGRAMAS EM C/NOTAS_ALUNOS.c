@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define tam 3
+#define tam 7
 
 int main(){
     char nome[tam][16];
